@@ -38,4 +38,10 @@ When Grant Vergottini designed CAML (California Markup Language) in 2002, this b
 
 ## License
 
-The markup and stylesheet are under the MIT License. The bill's text is a public record of the State of California.
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** A public record of the State of California.
+- **Images:** None.
+- **Fonts:** Liberation Serif, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
